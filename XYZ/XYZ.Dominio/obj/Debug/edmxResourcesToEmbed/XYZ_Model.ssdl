@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_XYZModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="DB_XYZModelStoreContainer">
+    <EntitySet Name="TbCliente" EntityType="DB_XYZModel.Store.TbCliente" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="TbCliente">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Nome" Type="varchar" Nullable="false" MaxLength="200" />
+    <Property Name="TelefoneResidencial" Type="varchar" Nullable="false" MaxLength="15" />
+    <Property Name="Endereco" Type="varchar" Nullable="false" MaxLength="200" />
+    <Property Name="DataNascimento" Type="date" />
+    <Property Name="TelefoneCelular" Type="varchar" MaxLength="15" />
+  </EntityType>
+</Schema>

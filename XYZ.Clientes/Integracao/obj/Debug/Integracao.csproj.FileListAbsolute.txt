@@ -1,0 +1,12 @@
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Integracao\bin\Debug\Integracao.dll.config
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Integracao\bin\Debug\Integracao.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Integracao\bin\Debug\Integracao.pdb
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Integracao\bin\Debug\EntityFramework.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Integracao\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Integracao\bin\Debug\Library.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Integracao\bin\Debug\Library.pdb
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Integracao\bin\Debug\EntityFramework.xml
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Integracao\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Integracao\obj\Debug\Integracao.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Integracao\obj\Debug\Integracao.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Integracao\obj\Debug\Integracao.pdb

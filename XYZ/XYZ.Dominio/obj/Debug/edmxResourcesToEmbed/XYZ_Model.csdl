@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_XYZModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DB_XYZContext" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="TbCliente" EntityType="DB_XYZModel.TbCliente" />
+  </EntityContainer>
+  <EntityType Name="TbCliente">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Nome" Type="String" Nullable="false" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="TelefoneResidencial" Type="String" Nullable="false" MaxLength="15" Unicode="false" FixedLength="false" />
+    <Property Name="Endereco" Type="String" Nullable="false" MaxLength="200" Unicode="false" FixedLength="false" />
+    <Property Name="DataNascimento" Type="DateTime" Precision="0" />
+    <Property Name="TelefoneCelular" Type="String" MaxLength="15" Unicode="false" FixedLength="false" />
+  </EntityType>
+</Schema>

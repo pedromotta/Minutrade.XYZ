@@ -1,0 +1,12 @@
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.Dominio\bin\Debug\XYZ.Dominio.dll.config
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.Dominio\bin\Debug\XYZ.Dominio.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.Dominio\bin\Debug\XYZ.Dominio.pdb
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.Dominio\bin\Debug\EntityFramework.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.Dominio\bin\Debug\Library.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.Dominio\bin\Debug\Library.pdb
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.Dominio\bin\Debug\EntityFramework.xml
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.Dominio\obj\Debug\XYZ.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.Dominio\obj\Debug\XYZ.Dominio.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.Dominio\obj\Debug\XYZ.Dominio.pdb

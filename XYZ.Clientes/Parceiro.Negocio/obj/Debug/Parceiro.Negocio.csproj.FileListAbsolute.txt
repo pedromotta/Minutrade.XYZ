@@ -1,0 +1,13 @@
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Parceiro.Negocio\bin\Debug\Parceiro.Negocio.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Parceiro.Negocio\bin\Debug\Parceiro.Negocio.pdb
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Parceiro.Negocio\bin\Debug\Integracao.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Parceiro.Negocio\bin\Debug\Library.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Parceiro.Negocio\bin\Debug\Parceiro.Dominio.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Parceiro.Negocio\bin\Debug\EntityFramework.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Parceiro.Negocio\bin\Debug\Library.pdb
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Parceiro.Negocio\bin\Debug\Integracao.pdb
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Parceiro.Negocio\bin\Debug\Parceiro.Dominio.pdb
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Parceiro.Negocio\bin\Debug\EntityFramework.xml
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Parceiro.Negocio\obj\Debug\Parceiro.Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Parceiro.Negocio\obj\Debug\Parceiro.Negocio.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ.Clientes\Parceiro.Negocio\obj\Debug\Parceiro.Negocio.pdb

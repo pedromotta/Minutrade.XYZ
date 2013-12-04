@@ -1,0 +1,13 @@
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.WcfIntegracao\bin\XYZ.WcfIntegracao.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.WcfIntegracao\bin\XYZ.WcfIntegracao.pdb
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.WcfIntegracao\bin\Library.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.WcfIntegracao\bin\XYZ.Dominio.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.WcfIntegracao\bin\XYZ.Repositorio.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.WcfIntegracao\bin\EntityFramework.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.WcfIntegracao\bin\Library.pdb
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.WcfIntegracao\bin\XYZ.Dominio.pdb
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.WcfIntegracao\bin\XYZ.Repositorio.pdb
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.WcfIntegracao\bin\EntityFramework.xml
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.WcfIntegracao\obj\Debug\XYZ.WcfIntegracao.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.WcfIntegracao\obj\Debug\XYZ.WcfIntegracao.dll
+C:\Users\Pedro\Documents\Visual Studio 2012\Projects\XYZ\XYZ.WcfIntegracao\obj\Debug\XYZ.WcfIntegracao.pdb
